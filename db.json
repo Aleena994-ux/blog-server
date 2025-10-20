@@ -1,0 +1,20 @@
+{
+  "blogs": [
+    {
+      "title": "Exploring the Mountains",
+      "content": "Mountains have always been a source of inspiration and adventure. From hiking trails to breathtaking views, every peak tells a story.",
+      "category": "Travel",
+      "author": "Sophia Johnson",
+      "imageUrl": "https://media.istockphoto.com/id/1369171053/photo/group-of-sporty-people-walks-in-mountains-at-sunset-with-backpacks.jpg?s=612x612&w=0&k=20&c=ajQuWt2YRWd0FPaCpdKz2Tt3WX2NI1ddeZjf8HIxlwU=",
+      "id": "021b"
+    },
+    {
+      "id": "b736",
+      "title": "The Future of Technology",
+      "content": "Technology is evolving at an unprecedented pace. From AI to blockchain, understanding the future trends is crucial for everyone.",
+      "category": "Tech",
+      "author": "Jane Smith",
+      "imageUrl": "https://cdn.britannica.com/84/203584-050-57D326E5/speed-internet-technology-background.jpg"
+    }
+  ]
+}
